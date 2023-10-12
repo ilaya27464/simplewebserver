@@ -1,5 +1,4 @@
-![image](https://github.com/ilaya27464/simplewebserver/assets/127576283/b673bd8d-81e1-478c-9233-04846cf908ae)# EX01 Developing a Simple Webserver
-## Date:
+## Date: 09-09-2023
 
 ## AIM:
 To develop a simple webserver to serve html pages.
@@ -57,7 +56,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-
+![Screenshot (325)](https://github.com/selvasachein/simplewebserver/assets/127576283/731be958-8b2b-459d-8d43-d4c97b19a2bb)
+![WhatsApp Image 2023-10-12 at 09 31 21](https://github.com/selvasachein/simplewebserver/assets/127576283/94403bff-67bf-4947-9348-45c46bc072e6)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
